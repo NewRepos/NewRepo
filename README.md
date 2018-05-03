@@ -1,2 +1,3 @@
-# NewRepo
-new repository
+Hi Friends,
+      
+   
